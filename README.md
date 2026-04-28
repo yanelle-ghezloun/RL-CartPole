@@ -61,6 +61,7 @@ RL is more flexible and requires no model knowledge.
 Hybrid approaches (model-based RL) combine both.
 
 ## Project Structure
+```
 RL-CartPole/
 ├── src/
 │   └── train.py         # PPO training and evaluation
@@ -68,7 +69,7 @@ RL-CartPole/
 │   └── rl_result.png    # training curves and episode visualization
 ├── requirements.txt
 └── main.py              # run training and plot results
-
+```
 
 ## Setup & Run
 

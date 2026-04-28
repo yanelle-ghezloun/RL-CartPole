@@ -1,0 +1,4 @@
+numpy
+matplotlib
+stable-baselines3[extra]
+gymnasium
